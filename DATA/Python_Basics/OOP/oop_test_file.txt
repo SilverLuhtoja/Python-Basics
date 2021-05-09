@@ -1,0 +1,1 @@
+{'name': 'kalle', 'number': '211222', 'city': 'rapla'}{'name': 'minni winni', 'number': '302032', 'city': 'suuuue'}
